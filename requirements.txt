@@ -1,0 +1,12 @@
+streamlit
+pandas
+sentence-transformers
+torch
+transformers
+re
+nltk
+spacy
+facebook/bart-large-cnn
+Helsinki-NLP/opus-mt-mul-vi
+torchvision
+faiss-cpu
